@@ -1,0 +1,98 @@
+html{
+	background-color:#A6A5A5;
+}
+body{
+	
+	margin: 86px 72px 43px 121px;
+	background-color:#d7cccf;
+	padding: 10px 10px 10px 10px;
+	border: 2px solid black;
+	height: 2732px;
+}
+h1,h2,h3{
+ color: black;
+}
+p{
+	text-align:right;
+	color:black;
+}
+img{
+	display: block;
+	margin: 0px auto;
+}
+table, td ,tr{
+  border: 2px solid black;
+  color: black;
+}
+.photo-1{
+	height: 426px;
+    width: 681px;
+	float: left;
+}
+.photo-1-mamonibaba img{
+	height: 411px;
+    width: 599px;
+}
+.photo-2{
+	height: 473px;
+    width: 562px;
+	float: left;
+}
+.photo-2-baba img{
+	height: 448px;
+    width: 467px;
+}
+.photo-3{
+	height: 447px;
+    width: 509px;
+	float: left;
+}
+.photo-3-mamoni img{
+	height: 447px;
+    width: 442px;
+}
+.photo-4{
+	height: 478px;
+    width: 771px;
+	float: left;
+}
+.photo-4-me img{
+	height: 400px;
+	width: 600px;
+}
+form {
+   margin: 0 auto;
+  padding: 1em;
+  border-radius: 1em;
+}
+
+
+label {
+  display: inline-block;
+  width: 90px;
+  text-align: right;
+}
+input, textarea {
+  font: 1em sans-serif;
+  width: 300px;
+  box-sizing: border-box;
+  border: 1px solid #999;
+}
+
+input:focus, textarea:focus {
+  border-color: #000;
+}
+
+textarea {
+  vertical-align: top;
+  height: 5em;
+}
+
+.button {
+ 
+  padding-left: 90px;
+}
+
+button {
+  margin-left: .5em;
+}
